@@ -1,3 +1,3 @@
 # ansible
 
-This is repo for all my ansible scripts.
+This is a repo for all of my ansible scripts.
